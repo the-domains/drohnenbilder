@@ -1,0 +1,28 @@
+name: Drohnenbilder
+favicon: null
+layout_spectrum: 0.31579406396485865
+typography_spectrum: 0.5262235307600349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6074354785960168
+  lightness: 0.5666370822582394
+  saturation: 0.2931363955140114
+  rhythmicContrast: 0.364207272650674
+purpose: []
